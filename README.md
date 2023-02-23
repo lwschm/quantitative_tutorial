@@ -1,4 +1,3 @@
 # Tutorial Quantitative Methods in Agricultural Business Economics
 
-This repository is for the tutorial  of the course Quantitative Methods in Agricultural Business Economics at Humboldt University Berlin. Tasks and code are in the notebook "QuantitativeTutorial".
-This notebook can be launched with Google CoLab. 
+To participate in the tutorial, you need a Google Account, which you then use to click on the Google Colab button. With Google Colab you can run all the codes in the cloud without having to install anything on your computers. We start with 01_Tutorial to get to know python. The second tutorial is QuantitativeTutorial.ipynb. If there is time left, we will do the third tutorial Crop_classification.ipynb.
